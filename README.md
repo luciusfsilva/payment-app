@@ -1,6 +1,6 @@
 # payment-app
 
-##Tecnologias utilzadas:
+## Tecnologias utilzadas:
     * JDK 17
     * SpringBoot 
     * Spring Actuator

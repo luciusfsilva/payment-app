@@ -7,3 +7,5 @@
     * Spring Kafka
     * Docker
     * Teste unitário e integração
+    * Design Pattern
+    * Arquitetura Resiliente

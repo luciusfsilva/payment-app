@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "endpoint.external.notification",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.external.notification'"
+  },
+  {
+    "name": "endpoint.external.authorization",
+    "type": "java.lang.String",
+    "description": "A description for 'endpoint.external.authorization'"
+  }
+]}
